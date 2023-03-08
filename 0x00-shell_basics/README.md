@@ -1,1 +1,2 @@
-pwd prints the exact path of the current directory 
+pwd prints the exact path of the current directory
+ls lists contents 
